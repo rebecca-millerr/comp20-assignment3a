@@ -1,0 +1,8 @@
+.RecordDot {
+    height: 6px;
+    width: 6px;
+    border-radius: 50%;
+    background-color: #ff0000;
+    display: inline-block;
+    margin: 0 0.2em;
+}
