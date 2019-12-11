@@ -1,0 +1,16 @@
+.Meals {
+    margin: 4em 0;
+    text-align: center;
+    padding: 0;
+}
+
+.CallToAction {
+    font-size: 1.6em;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.Loading {
+	margin: 10%;
+	font-size: 2em;
+}
